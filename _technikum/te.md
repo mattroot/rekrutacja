@@ -2,6 +2,7 @@
 layout: default
 title: Technik elektronik
 subtitle: Dla absolwentów szkół podstawowych i gimnazjów
+header-img: "te.jpg"
 ---
 
 ### Co dalej?

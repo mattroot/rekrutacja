@@ -1,0 +1,16 @@
+{% if site.images %}
+<div id="fucking-thumbnails">
+  {% for item in site.images %}
+  <a href="{{ site.baseurl }}/gallery/{{ item.image }}">
+    <img src="{{ site.baseurl }}/gallery/{{ item.image }}.thumb.jpg" alt="thumb">
+  </a>
+  {% endfor %}
+</div>
+
+<script>
+  lightGallery(document.getElementById('fucking-thumbnails'), {
+    thumbnail: true
+  });
+</script>
+
+{% endif %}

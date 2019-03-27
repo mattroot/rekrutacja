@@ -2,6 +2,7 @@
 layout: default
 title: Technik budownictwa
 subtitle: Dla absolwentów szkół podstawowych i gimnazjów
+header-img: tb.jpg
 ---
 
 ### Co dalej?

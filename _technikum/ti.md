@@ -2,6 +2,7 @@
 layout: default
 title: Technik informatyk
 subtitle: Dla absolwentów szkół podstawowych i gimnazjów
+header-img: "ti.jpg"
 ---
 
 ### Co dalej?

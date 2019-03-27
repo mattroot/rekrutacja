@@ -8,7 +8,7 @@
 
   var papiesh_bg = document.getElementById("papiesh-bg");
   {% if page.header-img %}
-  papiesh_bg.style.backgroundImage = "url('{{ page.header-img }}')";
+  papiesh_bg.style.backgroundImage = "url('{{ site.baseurl }}/headers/{{ page.header-img }}')";
   {% else %}
   papiesh_bg.style.backgroundImage = "url('{{ site.baseurl }}/images/szkola.jpg')";
   {% endif %}
