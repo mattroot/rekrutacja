@@ -28,7 +28,6 @@ description: >- # this means to ignore newlines until "baseurl:"
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 baseurl: "/rekrutacja" # the subpath of your site, e.g. /blog
-url: "http://zs1sierpc.cba.pl" # the base hostname & protocol for your site, e.g. http://example.com
 facebook_username: ZespolSzkolNr1WSierpcu
 youtube_username: mechaniksierpc
 main_site: "http://zs1sierpc.cba.pl"

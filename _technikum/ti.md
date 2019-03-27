@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Technik informatyk
-subtitle: Dla uczniów szkół podstawowych i gimnazjów
+subtitle: Dla absolwentów szkół podstawowych i gimnazjów
 ---
 
 ### Co dalej?

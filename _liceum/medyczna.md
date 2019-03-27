@@ -1,6 +1,8 @@
-# LO - klasa medyczna
-
-## ***Dla Absolwentów Szkoły Podstawowej i Gimnazjum***
+---
+layout: default
+title: Klasa medyczna
+subtitle: Dla absolwentów szkół podstawowych i gimnazjów
+---
 
 ### Przedmioty dodane i rozszerzone:
 1. biologia

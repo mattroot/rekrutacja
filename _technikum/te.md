@@ -1,6 +1,8 @@
-# Technik elektronik
-
-## ***Dla Absolwentów Szkoły Podstawowej i Gimnazjum***
+---
+layout: default
+title: Technik elektronik
+subtitle: Dla absolwentów szkół podstawowych i gimnazjów
+---
 
 ### Co dalej?
 Możesz pracować w pracowniach: projektowania i stosowania urządzeń elektronicznych, konstrukcyjno-technologicznych, w zakładach instalujących urządzenia elektroniczne, instalujących systemy alarmowe, nagłaśniające i monitoringu, administracji publicznej i przedsiębiorstwach eksploatujących systemy i urządzenia elektroniczne, doradcywa handlowo-technicznego ds. elektroniki.

@@ -1,6 +1,9 @@
-# LO - klasa turystyczno-sportowa <br> *z elementami rehabilitacji i fitness*
-
-## ***Dla Absolwentów Szkoły Podstawowej***
+---
+layout: default
+title: Klasa turystyczno-sportowa
+caption: z elementami rehabilitacji i fitness
+subtitle: Dla absolwentów szkół podstawowych
+---
 
 ### Przedmioty dodane i rozszerzone:
 1. biologia

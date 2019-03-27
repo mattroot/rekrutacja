@@ -1,9 +1,11 @@
-# Technik budownictwa
-
-## ***Dla Absolwentów Szkoły Podstawowej i Gimnazjum***
+---
+layout: default
+title: Technik budownictwa
+subtitle: Dla absolwentów szkół podstawowych i gimnazjów
+---
 
 ### Co dalej?
-Możesz podjąć naukę na wybranym kierunku studiów wyższych: ***budownictwo, geodezja, architektura, inżynieria środowiska, gospodarka przestrzenna***.
+Możesz podjąć naukę na wybranym kierunku studiów wyższych: **budownictwo, geodezja, architektura, inżynieria środowiska, gospodarka przestrzenna**.
 
 Możesz pracować w przedsiębiorstwach budowlanych, biurach projektowych i kosztorysowych, hurtowniach materiałów budowlanych, urzędach administracji państwowej i samorządowej, wytwórniach prefabrykatów budowlanych, założonej przez siebie firmie budowlanej.
 

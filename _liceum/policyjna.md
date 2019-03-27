@@ -1,6 +1,8 @@
-# LO - klasa policyjna
-
-## ***Dla Absolwentów Gimnazjum***
+---
+layout: default
+title: Klasa policyjna
+subtitle: Dla absolwentów gimnazjów
+---
 
 ### Przedmioty dodane i rozszerzone:
 1. język polski
