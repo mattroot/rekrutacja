@@ -1,0 +1,11 @@
+<h4>Media i linki</h4>
+
+{% if site.facebook_username %}
+<div><a href="https://facebook.com/{{ site.facebook_username }}/"><i class="fab fa-facebook"></i> Facebook</a></div>
+{% endif %}
+{% if site.youtube_username %}
+<div><a href="https://youtube.com/{{ site.youtube_username }}/"><i class="fab fa-youtube"></i> YouTube</a></div>
+{% endif %}
+{% if site.main_site %}
+<div><a href="{{ site.main_site }}"><i class="fa fa-globe"></i> Strona szkoły</a></div>
+{% endif %}

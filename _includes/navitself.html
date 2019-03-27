@@ -1,0 +1,32 @@
+<div div class="collapse navbar-collapse" id="navbarSupportedContent">
+    <ul class="navbar-nav mr-auto">
+        <li class="nav-item">
+            <a class="nav-link" href="{{ site.baseurl }}/">Strona główna</a>
+        </li>
+
+        {% for suc in site.pages %}
+        {% if suc.in_main_menu == true %}
+        <li class="nav-item">
+            <a class="nav-link" href="{{ site.baseurl }}{{ suc.url }}">{{ suc.title }}</a>
+        </li>
+        {% endif %}
+        {% endfor %}
+
+        {% for chuj in site.collections %}
+        {% if chuj.label <> "posts" %}
+        <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" role="button"
+                data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                {{ chuj.label | capitalize }}
+            </a>
+
+            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                {% for dic in chuj.docs %}
+                <a class="dropdown-item" href="{{ site.baseurl }}{{ dic.url }}">{{ dic.title }}</a>
+                {% endfor %}
+            </div>
+        </li>
+        {% endif %}
+        {% endfor %}
+    </ul>
+</div>

@@ -1,0 +1,16 @@
+<div class="header-dicks">
+  <div class="papiesh-bg shadow" id="papiesh-bg"></div>
+  <h1 class="display-3 text-center text-uppercase">{{ page.title }}</h1>
+  <h4 class="h4">{{ page.subtitle }}</h4>
+</div>
+
+<script>
+
+  var papiesh_bg = document.getElementById("papiesh-bg");
+  {% if page.header-img %}
+  papiesh_bg.style.backgroundImage = "url('{{ page.header-img }}')";
+  {% else %}
+  papiesh_bg.style.backgroundImage = "url('{{ site.baseurl }}/images/szkola.jpg')";
+  {% endif %}
+
+</script>

@@ -1,0 +1,36 @@
+<!DOCTYPE HTML>
+<html lang="{{ site.language }}">
+
+<head>
+  {% include head.html %}
+  {% include stylesheets.html %}
+
+  <!-- mein Name ist Jeff -->
+
+</head>
+
+<body>
+
+  {% include navbar.html %}
+
+  <div class="im-just-checking-out-if-the-height-is-good-keep-scrolling">
+
+    {% include popebanner.html %}
+
+    <!-- Main -->
+    <div class="container" id="main">
+      {{ content }}
+
+      {% if page.photohub %}
+      {% include photohub.html %}
+      {% endif %}
+    </div>
+
+  </div>
+
+  {% include footer.html %}
+
+  {% include scripts.html %}
+</body>
+
+</html>

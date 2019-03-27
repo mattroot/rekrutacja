@@ -1,0 +1,71 @@
+/* pope colors */
+:root {
+    --pope-dark-blue: #213769;
+    --flat-dark-blue: #34495e;
+
+}
+
+/* footer position helper (keks) */ 
+.im-just-checking-out-if-the-height-is-good-keep-scrolling {
+    min-height: 98vh;
+    margin: 0;
+    padding: 0;
+}
+
+.header-dicks {
+    min-height: 50vh;
+    max-height: 55vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 100%;
+    color: white;
+    text-shadow: 2px 2px black;
+    margin-bottom: 3em;
+}
+
+.header-dicks h1 {
+    margin-top: 0.5em;
+}
+
+.papiesh-bg {
+    position: absolute;
+    z-index: -1;
+    filter: blur(5px);
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: inherit;
+    width: 100%;
+    min-height: inherit;
+    max-height: inherit;
+}
+
+.section {
+    padding: 1em;
+    margin-top: 10px;
+}
+
+footer {
+    padding: 2em 0;
+    margin-top: 2em;
+}
+
+.bg-flat-blue {
+    background:  var(--pope-dark-blue);
+}
+.flex-links {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.flex-links a {
+    color: #28f !important;
+}
+.nic {
+    padding: 0;
+    margin: 0;
+}
